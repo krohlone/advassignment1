@@ -1,0 +1,49 @@
+body{
+  background-color: rgb(212, 225, 236);
+  
+
+}
+h1 {
+  background-color: rgb(216, 248, 223);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+  display: block;
+  text-align: center;
+  
+}
+.logo{
+  width:300px;
+  height: auto;
+  align-items: flex-start;
+}
+
+nav{
+  display:inline-flex;
+  align-content:center;
+  padding: 1rem 2rem;
+  background-color:rgb(175, 231, 250);
+  font-size: larger;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40%;
+}
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+font-size: large;
+}
+
+
+.travel-tips {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-left: 4px solid #ecdfdf;
+  margin: 1rem 0;
+  font-size: 1 rem;
+}
